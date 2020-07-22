@@ -1,0 +1,102 @@
+#to
+{
+	background-color: black;
+}
+
+#rien
+{
+	height: 30%;
+	width: 100%;
+	background-color: white;
+}
+#rien p
+{
+	float: bottom;
+
+}
+
+
+#im1
+{
+	border-radius:1px;
+	width: 80px;
+	height:80px;
+	margin-left:40%;
+	
+}
+#co
+{
+	text-align: center;
+}
+#io
+{
+	width: 50px;
+	text-align-last: center;
+	height: 50px;
+	border-radius: 9px;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+h1
+{
+	text-align: center;
+	color: aquamarine;
+}
+#fieldset
+{
+	background-color: black;
+	color: white;
+	width: 50%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: auto;
+	margin-top: 5%;
+	border-color: black;
+	border-radius:9px;
+	opacity: 0.7;
+	
+}
+nav
+{
+	color: red;
+	background-color: white;
+	width: 100%;
+}
+body
+{
+	background-color: whitesmoke;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#t1
+{
+	background-color: black;
+	color: white;
+	width: 100%;
+	border-left:transparent;
+	border-right:transparent;
+	border-top:transparent;
+}
+#div2
+{
+	text-align: center;
+	color: gray;
+}
+#div9
+{
+padding-left:100%;
+}
+#div1
+{
+color:aqua;
+}
+#con
+{
+	border-radius:6px;
+	background-color:blue;
+	color: white;
+	border-color: blue;
+	padding:4px;
+}
+
